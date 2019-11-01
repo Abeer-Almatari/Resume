@@ -14,7 +14,7 @@ Technology professional with over ten years of industry experience in classroom 
 ## EXPERIENCE
 ### AL KHALEEJ Education & Training/New Horizons  - Riyadh, Saudi Arabia 2001 - 2012
  #### Technical Instructor  (2001 – 2006, 2009 - 2012)
-- Taught courses for students pursuing a Programming Diploma. Courses included Microsoft SQL Server, Programming with Visual Studio (ASP.NET, ADO.NET, etc.),CSS,JavaScript, HTML, Microsoft Office,  System Analysis,  and Windows (98 to 7). 
+- Taught courses for students pursuing a Programming Diploma. Courses included Microsoft SQL Server, Programming with Visual Studio (ASP.NET, ADO.NET, etc.),CSS,JavaScript, HTML, Microsoft Office,  System Analysis, Visio and Windows (98 to 7). 
 - Trained new instructors, prepared outlines for new courses, and contributed to the development of exams.
 - Reported student feedback to Training Manager to improve course offerings. 
 
